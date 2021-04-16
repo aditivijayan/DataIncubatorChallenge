@@ -1,0 +1,10 @@
+This Figure shows the rating pattern of two users. It should be noted that the total 
+number ratings from the two users are different. The plot on the right shows the rating
+pattern of the most active user (User1) and the one on the left shows the rating pattern for 
+another user (User2).
+
+It can be seen by comparing the two plots that User2 is more likely to a lower rating 
+to an item than User1. Nearly 90% of the ratings given by User1 are either four- or -five 
+stars and three-star rating to negligibly small number of items. User2 relied on the three-star
+rating for nearly a third of the items.
+

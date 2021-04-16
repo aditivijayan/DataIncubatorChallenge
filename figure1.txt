@@ -1,0 +1,9 @@
+This Figure shows the rating distribution of the most rated item in the data set. 
+The bars show the fraction of the total rating given by all the users. 
+This is a highly popular item as more than half the people who read this item gave it a 
+five star rating. Increasingly lower fractions of user rated it poorly. 
+It is interesting to note that nearly twice as many people gave a one-star rating 
+as compared to a two-star rating, indicating the earlier mentioned bias of 
+strong emotions driving strong actions.
+
+
